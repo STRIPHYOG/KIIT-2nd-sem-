@@ -1,0 +1,138 @@
+Ethics in Data Science
+
+Means use data fairly, safely  and responsibly so that people are not  harmed or mislead.
+
+Personal data must be procted , use data only with permission/
+
+Fairness and Bies: Model must treat everyone equally. 
+
+Data Ownership and usage:
+Data belongs to the person or organization who creates or provides it.
+Users should know who owns their personal data.
+Data must be collected only after user permission.
+Users should know why and how their data is used.
+Users can access, modify, or delete their data
+Users can withdraw consent anytime
+
+Framework of Ethics:
+Respect for indivisuals
+fairness and non discrimination
+Transparency
+Accountability
+Security and Safety
+
+Ensuring Fairness in data science:
+	Data should represent all groups equally.
+	Biased or incomplete data must be removed.
+	Algorithms should not discriminate against anyone.
+	Model results must be checked regularly.
+	Human review is needed for important decisions.
+
+Importance of ethics for data science:
+	Ethics protects user privacy and personal data.
+	It prevents bias and unfair decisions.
+	It builds trust between users and organizations.
+	It ensures responsible and legal use of data.
+	It reduces harm to individuals and society.
+
+CAN-SPAM Act:
+	 Its a law to contro; unwanted commercial mails
+	 It requires senders to clarify identity promotional emails.
+	 Emails must include a valid sender address.
+	 Users must be given an option to unsubscribe.
+	 Violating the act can lead to heavy penalties.
+
+
+UNIT-2 RESEARCH ETHICS
+
+1. Data-Driven Research:
+
+Data-driven research uses data to find answers and patterns.
+Decisions are based on real data, not assumptions.
+Large datasets are analyzed using statistical or ML tools.
+Results are more accurate and reliable.
+It is widely used in science, business, and technology.
+
+2. Facebook Emotional Contagion Experiment:
+
+Facebook conducted an experiment on users’ news feeds in 2014.
+Users were shown more positive or negative posts without their knowledge.
+The study tested whether emotions spread through social media
+Results showed users’ posts changed emotionally based on what they saw.
+The experiment raised serious ethical concerns about consent and privacy
+
+3. IRB: Institutional Review Board  
+
+Institutional Review Board is a committee that reviews research involving humans.
+It ensures participants’ rights, safety, and privacy are protected.
+IRB checks if proper informed consent is taken.
+It prevents unethical or harmful research practices.
+Research cannot start without IRB approval.
+
+4. Methods of Data Collection
+1️⃣ Surveys & Questionnaires
+
+Data is collected by asking people questions (online/offline).
+
+Ethics: Take consent, don’t force answers, protect privacy.
+
+2️⃣ Interviews
+
+One-to-one or group discussion to collect detailed data.
+
+Ethics: Inform the person why data is taken and keep it confidential.
+
+3️⃣ Observation
+
+Collecting data by watching behavior or activities.
+
+Ethics: Avoid hidden observation; respect personal boundaries.
+
+4️⃣ Web Scraping
+
+Data collected automatically from websites.
+
+Ethics: Follow website rules, copyright laws, and avoid personal data misuse.
+
+5️⃣ Social Media Data
+
+Data taken from platforms like Facebook, Instagram, X, etc.
+
+Ethics: Don’t misuse personal posts; anonymize user data.
+
+6️⃣ Sensors & IoT Devices
+
+Data from cameras, GPS, health bands, smart devices.
+
+Ethics: Inform users, avoid continuous tracking without permission.
+
+7️⃣ Experiments / A-B Testing
+
+Data collected by testing changes on users.
+
+Ethics: No harm, informed consent, approval from ethics boards.
+
+
+Ethics in Qualitative Data – simple & exam-oriented 👇
+
+1️⃣ Informed Consent
+
+Participants must know why data is collected and agree freely.
+
+2️⃣ Privacy & Confidentiality
+
+Personal details should be kept secret and not shared.
+
+3️⃣ Anonymity
+
+Names and identities should be removed or hidden.
+
+4️⃣ No Harm to Participants
+
+Questions should not cause emotional, social, or mental harm.
+
+5️⃣ Honest Data Use
+
+Do not manipulate, exaggerate, or misrepresent responses.
+
+
